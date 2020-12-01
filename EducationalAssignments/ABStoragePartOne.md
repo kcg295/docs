@@ -97,7 +97,7 @@ If you got an error, please go through the troubleshooting section found below.
 If you can't get Repy files to run, some of the following common errors may
 have occurred:
 
- * using `print` instead of `log`:
+ * using `log` instead of `print`:
 
 Repy is a subset of Python, but its syntax is slightly different.  For
 example, Python's `print` statement cannot be used; Repy has `log` for
